@@ -1,6 +1,5 @@
 """
-Low-Bias Face Recognition - Fixed Working Version
-Optimized for CPU execution
+Low-Bias Face Recognition
 """
 
 import torch
