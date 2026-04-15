@@ -1,5 +1,21 @@
 🧠 Low-Bias Face Recognition System
 
+![GitHub repo size](https://img.shields.io/github/repo-size/probal2005/face_recognition_project)
+![GitHub stars](https://img.shields.io/github/stars/probal2005/face_recognition_project?style=social)
+![GitHub forks](https://img.shields.io/github/forks/probal2005/face_recognition_project?style=social)
+![GitHub issues](https://img.shields.io/github/issues/probal2005/face_recognition_project)
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+
+
+🧠 Low-Bias Face Recognition System
+
 A fairness-aware face recognition system built using PyTorch that reduces demographic bias using ArcFace loss and MMD (Maximum Mean Discrepancy) regularization.
 This project demonstrates how to design a machine learning pipeline that not only optimizes accuracy but also ensures equitable performance across demographic groups.
 
